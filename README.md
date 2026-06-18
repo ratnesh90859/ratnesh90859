@@ -19,7 +19,7 @@
 - 💡 Interested in Software Development, AI/ML, and Data Engineering
 - 🏆 Winner of Space Hackathon
 - 💻 Solved 350+ DSA problems across coding platforms
-- 📈 LeetCode Rating: 1687
+- 📈 LeetCode Rating: 1720
 - 🎯 Goal: Become a Software Development Engineer
 
 ---
