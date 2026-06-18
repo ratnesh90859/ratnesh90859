@@ -1,117 +1,132 @@
 # Hi 👋, I'm Ratnesh Singh
 
-🚀 Software Developer | GenAI Enthusiast | Problem Solver
+🚀 Backend Developer | Cloud Engineer | AI Engineer
 
-🎓 B.Tech in Computer Science & Engineering at IIIT Nagpur (2022-2026)
+🎓 Final-Year B.Tech Computer Science Student at IIIT Nagpur (2022 - 2026)
 
-💼 Software Developer 
+☁️ Google Cloud Associate Data Practitioner Certified
 
-🌱 Currently learning System Design, Cloud Technologies, and Advanced AI Applications
+💼 Cloud Tech Intern @ Econz IT Services
 
-💻 Passionate about building scalable applications and solving real-world problems
+💼 Former Full Stack Developer Intern @ Snap E Cabs
+
+💡 Passionate about Backend Engineering, Cloud Infrastructure, Distributed Systems, and AI Applications
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on Full Stack and AI-powered applications
-- 🌱 Learning Cloud Computing, GenAI, and System Design
-- 💡 Interested in Software Development, AI/ML, and Data Engineering
-- 🏆 Winner of Space Hackathon
-- 💻 Solved 350+ DSA problems across coding platforms
-- 📈 LeetCode Rating: 1720
-- 🎯 Goal: Become a Software Development Engineer
+* 💻 Backend Developer with experience in Node.js, FastAPI, PostgreSQL, MongoDB, Redis, and BigQuery
+* ☁️ Hands-on experience with AWS, Google Cloud Platform (GCP), Kubernetes, Docker, and Terraform
+* 🤖 Building AI-powered applications using Gemini, LangChain, LangGraph, RAG, MCP, and Google ADK
+* 🚀 Developed production-grade REST APIs, ETL pipelines, AI agents, and cloud-native systems
+* 📊 Experience with CI/CD, Infrastructure as Code (IaC), and Microservices Architecture
+* 🏆 Winner of Space Hackathon at IIIT Nagpur
+* 📈 Active Competitive Programmer and Problem Solver
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+C • C++ • Python • JavaScript • Go • SQL • Bash
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend & APIs
+
+Node.js • Express.js • FastAPI • REST APIs • GraphQL • gRPC • Microservices
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### AI & Cloud
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+MongoDB • PostgreSQL • MySQL • Redis • BigQuery • SQLite
+
+### AI & Machine Learning
+
+LLMs • RAG • LangChain • LangGraph • Google ADK • Gemini • NLP • Prompt Engineering • Vector Databases
+
+### Cloud & DevOps
+
+AWS • GCP • Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • CI/CD
+
+### Tools
+
+Git • GitHub • Linux • Postman • VS Code • Nginx
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Foodie
-Full Stack Food Delivery Application with Authentication, Cart Management, and Stripe Payments.
+### 🤖 Swiggy Concierge – Multi-Agent AI System
 
-### 🔹 Cricket Tournament Management System
-Tournament registration, team management, and live score tracking platform.
+* Built a hierarchical multi-agent AI system using Google ADK and Gemini 2.0 Flash
+* Integrated RAG, MCP, FastAPI, and Server-Sent Events (SSE)
+* Coordinated Food, Grocery, and Dineout agents through a unified orchestration layer
 
-### 🔹 VideoGyaan
-YouTube Video Summarizer and Q&A System using LLMs and Vector Databases.
+### 📊 EcomInsight AI – NL-to-SQL Assistant
+
+* Developed an AI-powered analytics platform using LangGraph, LangChain, Gemini, and SQLite
+* Enabled natural language querying over 119K+ e-commerce records
+* Implemented agentic workflows for SQL generation, validation, and error handling
+
+### ✍️ QuickPost
+
+* AI-powered LinkedIn Post Generator
+* Built using Llama 3.2, LangChain, Streamlit, and Groq Cloud
+* Generates personalized LinkedIn posts using Few-Shot Learning
+
+### 🏏 Cricket Tournament Management System
+
+* Full-stack platform for tournament registration and live score tracking
+* Built using React, Tailwind CSS, Node.js, and MongoDB
 
 ---
 
 ## 🏆 Achievements
 
-🥇 First Prize Winner – Space Hackathon, IIIT Nagpur
-
-⭐ CodeChef 3-Star Programmer
-- Maximum Rating: 1658
-
-📈 LeetCode Competitive Programmer
-- Maximum Rating: 1720+
-- Ranked among the Top 12% globally
-
-🎯 Solved 350+ DSA Problems across LeetCode, CodeChef, and other coding platforms
-
-🏅 Genethon 2.0 Finalist
-- Secured 5th position among 40+ participants at IIIT Nagpur
-
-☁️ Google Cloud Certified
-- Google Cloud Associate Data Practitioner
-
-🚀 1+ Year of Internship Experience
-- Cloud Tech Intern @ Econz IT Services
-- Full Stack Developer Intern @ Snap E Cabs
-
-💡 Built Production-Grade Systems
-- ETL Pipelines on GCP BigQuery
-- AI Chatbots using Gemini + RAG
-- Multi-Agent AI Systems using Google ADK & MCP
-- Cloud Infrastructure using Terraform, Kubernetes, Docker, and Jenkins
+* 🥇 First Prize – Space Hackathon, IIIT Nagpur
+* ☁️ Google Cloud Associate Data Practitioner Certified
+* ⭐ CodeChef 3-Star Programmer (Max Rating: 1658)
+* 📈 LeetCode Rating: 1720+
+* 🎯 Solved 350+ DSA Problems
+* 🏅 Genethon 2.0 Finalist (5th Position)
+* 💼 1+ Year of Internship Experience in Software Development
 
 ---
 
+## 📊 Competitive Programming
+
+* LeetCode Rating: 1720+
+* CodeChef Rating: 1658 (3★)
+* Solved 350+ DSA Problems
+* Strong foundation in:
+
+  * Data Structures & Algorithms
+  * Dynamic Programming
+  * Graph Algorithms
+  * Trees & Binary Search
+  * System Design Fundamentals
+
+---
+
+## 🌱 Currently Exploring
+
+* Distributed Systems
+* Advanced System Design
+* Cloud-Native Architecture
+* Kubernetes at Scale
+* Agentic AI Systems
+* Large Language Model Engineering
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/ratnesh-singh-426819216/
-- LeetCode: https://leetcode.com/u/Ratnesh_Singh07/
-- Email: ratnesh90859@gmail.com
+💼 LinkedIn: [www.linkedin.com/in/ratnesh-singh-426819216](http://www.linkedin.com/in/ratnesh-singh-426819216)
+
+💻 LeetCode: https://leetcode.com/u/Ratnesh_Singh07/
+
+📧 Email: [ratnesh90859@gmail.com](mailto:ratnesh90859@gmail.com)
 
 ---
 
-⭐ If you like my work, feel free to star my repositories!
+⭐ Feel free to explore my repositories and connect with me!
