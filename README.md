@@ -1,132 +1,127 @@
-# Hi 👋, I'm Ratnesh Singh
+![head](bottom_tail.svg)
 
-🚀 Backend Developer | Cloud Engineer | AI Engineer
+<h1 align=center> Hi There✌, I'm Ratnesh Singh </h1>
 
-🎓 Final-Year B.Tech Computer Science Student at IIIT Nagpur (2022 - 2026)
+### A Backend Developer, Cloud Engineer and AI Enthusiast
+<br>
 
-☁️ Google Cloud Associate Data Practitioner Certified
+- 🔭 I’m currently working on Backend Systems, Cloud Infrastructure and AI Applications
+- 🌱 I’m currently learning Distributed Systems, Advanced System Design and Agentic AI
+- 👯 I’m looking to collaborate on Backend, Cloud and AI related projects
+- 💬 Ask me about Backend Development, Node.js, FastAPI, Cloud, GenAI and DSA
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy building scalable systems and solving challenging DSA problems
 
-💼 Cloud Tech Intern @ Econz IT Services
+<br>
 
-💼 Former Full Stack Developer Intern @ Snap E Cabs
-
-💡 Passionate about Backend Engineering, Cloud Infrastructure, Distributed Systems, and AI Applications
-
----
-
-## 🚀 About Me
-
-* 💻 Backend Developer with experience in Node.js, FastAPI, PostgreSQL, MongoDB, Redis, and BigQuery
-* ☁️ Hands-on experience with AWS, Google Cloud Platform (GCP), Kubernetes, Docker, and Terraform
-* 🤖 Building AI-powered applications using Gemini, LangChain, LangGraph, RAG, MCP, and Google ADK
-* 🚀 Developed production-grade REST APIs, ETL pipelines, AI agents, and cloud-native systems
-* 📊 Experience with CI/CD, Infrastructure as Code (IaC), and Microservices Architecture
-* 🏆 Winner of Space Hackathon at IIIT Nagpur
-* 📈 Active Competitive Programmer and Problem Solver
+<div align="center">
+    <img loading="lazy" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=ratnesh90859&hide_border=true" alt="current streak stats" />
+    <img loading="lazy" width=396 src="https://github-readme-stats.vercel.app/api?username=ratnesh90859&show_icons=true&count_private=true&hide_border=true" alt="github stats" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🏆 Achievements
 
-### Languages
-
-C • C++ • Python • JavaScript • Go • SQL • Bash
-
-### Backend & APIs
-
-Node.js • Express.js • FastAPI • REST APIs • GraphQL • gRPC • Microservices
-
-### Databases
-
-MongoDB • PostgreSQL • MySQL • Redis • BigQuery • SQLite
-
-### AI & Machine Learning
-
-LLMs • RAG • LangChain • LangGraph • Google ADK • Gemini • NLP • Prompt Engineering • Vector Databases
-
-### Cloud & DevOps
-
-AWS • GCP • Docker • Kubernetes • Terraform • Jenkins • GitHub Actions • CI/CD
-
-### Tools
-
-Git • GitHub • Linux • Postman • VS Code • Nginx
+- 🥇 First Prize Winner – Space Hackathon, IIIT Nagpur
+- ☁️ Google Cloud Associate Data Practitioner Certified
+- ⭐ CodeChef 3-Star Programmer (Max Rating: 1658)
+- 📈 LeetCode Rating: 1720+
+- 🎯 Solved 350+ DSA Problems
+- 🏅 Genethon 2.0 Finalist (5th Position)
+- 💼 Cloud Tech Intern @ Econz IT Services
+- 💼 Former Full Stack Developer Intern @ Snap E Cabs
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Experience
 
-### 🤖 Swiggy Concierge – Multi-Agent AI System
+#### ☁️ Cloud Tech Intern | Econz IT Services
+- Built production-grade ETL pipelines integrating HubSpot CRM with BigQuery
+- Developed AI-powered chatbot using Gemini Enterprise and RAG
+- Automated AWS → GCP migration using Terraform and Kubernetes
+- Built CI/CD pipelines using Jenkins
 
-* Built a hierarchical multi-agent AI system using Google ADK and Gemini 2.0 Flash
-* Integrated RAG, MCP, FastAPI, and Server-Sent Events (SSE)
-* Coordinated Food, Grocery, and Dineout agents through a unified orchestration layer
-
-### 📊 EcomInsight AI – NL-to-SQL Assistant
-
-* Developed an AI-powered analytics platform using LangGraph, LangChain, Gemini, and SQLite
-* Enabled natural language querying over 119K+ e-commerce records
-* Implemented agentic workflows for SQL generation, validation, and error handling
-
-### ✍️ QuickPost
-
-* AI-powered LinkedIn Post Generator
-* Built using Llama 3.2, LangChain, Streamlit, and Groq Cloud
-* Generates personalized LinkedIn posts using Few-Shot Learning
-
-### 🏏 Cricket Tournament Management System
-
-* Full-stack platform for tournament registration and live score tracking
-* Built using React, Tailwind CSS, Node.js, and MongoDB
+#### 🚕 Full Stack Developer Intern | Snap E Cabs
+- Developed REST APIs for Driver App using Node.js and Express.js
+- Built QR-based check-in/check-out and slot management system
+- Optimized MongoDB queries and implemented Redis caching
+- Integrated AWS S3 and Dockerized backend services
 
 ---
 
-## 🏆 Achievements
+### 🚀 Featured Projects
 
-* 🥇 First Prize – Space Hackathon, IIIT Nagpur
-* ☁️ Google Cloud Associate Data Practitioner Certified
-* ⭐ CodeChef 3-Star Programmer (Max Rating: 1658)
-* 📈 LeetCode Rating: 1720+
-* 🎯 Solved 350+ DSA Problems
-* 🏅 Genethon 2.0 Finalist (5th Position)
-* 💼 1+ Year of Internship Experience in Software Development
+#### 🤖 Swiggy Concierge – Multi-Agent AI System
+- Built using Google ADK, Gemini 2.0, MCP, FastAPI and RAG
+- Coordinated Food, Grocery and Dineout AI Agents
+- Implemented Guardrails and Predictive Auto-Restock Engine
 
----
+#### 📊 EcomInsight AI – NL-to-SQL Assistant
+- Built using LangGraph, LangChain, Gemini and SQLite
+- Enabled Natural Language Queries on 119K+ E-Commerce Records
+- Designed Agentic Workflow for SQL Generation and Error Handling
 
-## 📊 Competitive Programming
+#### ✍️ QuickPost
+- AI-powered LinkedIn Post Generator
+- Built using Llama 3.2, LangChain, Streamlit and Groq Cloud
+- Generates personalized posts using Few-Shot Learning
 
-* LeetCode Rating: 1720+
-* CodeChef Rating: 1658 (3★)
-* Solved 350+ DSA Problems
-* Strong foundation in:
-
-  * Data Structures & Algorithms
-  * Dynamic Programming
-  * Graph Algorithms
-  * Trees & Binary Search
-  * System Design Fundamentals
+#### 🏏 Cricket Tournament Management System
+- Tournament registration and live score tracking platform
+- Built using React, Tailwind CSS and Node.js
 
 ---
 
-## 🌱 Currently Exploring
+### :hammer_and_wrench: Tech Stack
 
-* Distributed Systems
-* Advanced System Design
-* Cloud-Native Architecture
-* Kubernetes at Scale
-* Agentic AI Systems
-* Large Language Model Engineering
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,javascript,nodejs,express,fastapi,react,mongodb,postgres,mysql,redis,docker,kubernetes,terraform,aws,gcp,git,github,linux,postman)](https://skillicons.dev)
 
 ---
 
-## 🌐 Connect With Me
+### 📜 Certifications & Credentials
 
-💼 LinkedIn: [www.linkedin.com/in/ratnesh-singh-426819216](http://www.linkedin.com/in/ratnesh-singh-426819216)
-
-💻 LeetCode: https://leetcode.com/u/Ratnesh_Singh07/
-
-📧 Email: [ratnesh90859@gmail.com](mailto:ratnesh90859@gmail.com)
+<a href="https://www.credly.com/badges/c0145869-1fc2-4fd1-a8a9-efe9b0fa0fd8">
+<img src="https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Google Cloud Associate Data Practitioner">
+</a>
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+### 📊 Competitive Programming
+
+- 📈 LeetCode Rating: 1720+
+- ⭐ CodeChef 3-Star Programmer
+- 🎯 Solved 350+ DSA Problems
+- 💡 Strong in Graphs, Trees, DP, Binary Search and System Design
+
+---
+
+### Contact Me
+
+<p align="left">
+   <a href="mailto:ratnesh90859@gmail.com">
+      <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="50" width="50"/>
+   </a>
+   
+   <a href="https://www.linkedin.com/in/ratnesh-singh-426819216/" target="_blank">
+      <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" height="60" width="60"/>
+   </a>
+
+   <a href="https://leetcode.com/u/Ratnesh_Singh07/" target="_blank">
+      <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" height="50" width="50"/>
+   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ratnesh90859&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+   <b>❤️ Thank you for visiting my GitHub Profile ❤️</b>
+</p>
+
+<br>
+
+![tail](bottom_header.svg)
