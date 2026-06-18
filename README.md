@@ -37,7 +37,7 @@
 
 - 🤖 Swiggy Concierge – Multi-Agent AI System
 - 📊 EcomInsight AI – NL-to-SQL Assistant
-- ✍️ VideoGyan– Youtube Video Summary
+- ✍️ VideoGyaan – YouTube Video Summary
 - 🍔 Foodie – Food Delivery Platform
 
 ---
@@ -56,17 +56,33 @@
 
 ---
 
-### Contact Me
-
-### Coding Profiles
+### 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" width="50" height="50"/>
+  <a href="mailto:ratnesh90859@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="50"/>
   </a>
 
+  <a href="https://www.linkedin.com/in/ratnesh-singh-426819216/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="50"/>
+  </a>
+
+  <a href="https://github.com/ratnesh90859" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="50"/>
+  </a>
+</p>
+
+---
+
+### 💻 Coding Profiles
+
+<p align="left">
   <a href="https://leetcode.com/u/Ratnesh_Singh07/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="50" height="50"/>
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="50"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" width="60"/>
   </a>
 </p>
 
