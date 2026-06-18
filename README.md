@@ -4,7 +4,7 @@
 
 🎓 B.Tech in Computer Science & Engineering at IIIT Nagpur (2022-2026)
 
-💼 Full Stack Intern
+💼 Software Developer 
 
 🌱 Currently learning System Design, Cloud Technologies, and Advanced AI Applications
 
