@@ -74,21 +74,35 @@ YouTube Video Summarizer and Q&A System using LLMs and Vector Databases.
 
 ## 🏆 Achievements
 
-- 🥇 Winner - Space Hackathon
-- 💻 350+ DSA Problems Solved
-- 📈 LeetCode Rating: 1687
-- 🎯 Flipkart Grid Qualified
-- 👨‍💼 Technical Lead at CRISPR IIIT Nagpur
+🥇 First Prize Winner – Space Hackathon, IIIT Nagpur
+
+⭐ CodeChef 3-Star Programmer
+- Maximum Rating: 1658
+
+📈 LeetCode Competitive Programmer
+- Maximum Rating: 1720+
+- Ranked among the Top 12% globally
+
+🎯 Solved 350+ DSA Problems across LeetCode, CodeChef, and other coding platforms
+
+🏅 Genethon 2.0 Finalist
+- Secured 5th position among 40+ participants at IIIT Nagpur
+
+☁️ Google Cloud Certified
+- Google Cloud Associate Data Practitioner
+
+🚀 1+ Year of Internship Experience
+- Cloud Tech Intern @ Econz IT Services
+- Full Stack Developer Intern @ Snap E Cabs
+
+💡 Built Production-Grade Systems
+- ETL Pipelines on GCP BigQuery
+- AI Chatbots using Gemini + RAG
+- Multi-Agent AI Systems using Google ADK & MCP
+- Cloud Infrastructure using Terraform, Kubernetes, Docker, and Jenkins
 
 ---
 
-## 📊 GitHub Stats
-
-![Ratnesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnesh90859&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh90859&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ratnesh90859&theme=tokyonight)
 
 ---
 
