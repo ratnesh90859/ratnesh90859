@@ -58,18 +58,16 @@
 
 ### Contact Me
 
-### 🏆 Competitive Programming
+### Coding Profiles
 
 <p align="left">
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-3★%20Programmer-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/u/Ratnesh_Singh07/">
+<img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
 
-  <a href="https://leetcode.com/u/Ratnesh_Singh07/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-1720+-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-
-  <img src="https://img.shields.io/badge/DSA-350%2B%20Problems-success?style=for-the-badge"/>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="48" height="48"/>
+</a>
 </p>
 
 ---
