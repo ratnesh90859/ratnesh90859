@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ratnesh Singh
 
-🚀 Full Stack Developer | GenAI Enthusiast | Problem Solver
+🚀 Software Developer | GenAI Enthusiast | Problem Solver
 
 🎓 B.Tech in Computer Science & Engineering at IIIT Nagpur (2022-2026)
 
@@ -61,12 +61,6 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 QuickPost
-AI-powered LinkedIn Post Generator using Llama 3.2, LangChain, Streamlit, and Groq.
-
-### 🔹 Driver Cancellation Analysis
-Analyzed ride cancellations using call recordings, transcription, and AI-based reason extraction.
-
 ### 🔹 Foodie
 Full Stack Food Delivery Application with Authentication, Cart Management, and Stripe Payments.
 
@@ -100,9 +94,9 @@ YouTube Video Summarizer and Q&A System using LLMs and Vector Databases.
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
-- LeetCode: https://leetcode.com/YOUR-USERNAME/
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/ratnesh-singh-426819216/
+- LeetCode: https://leetcode.com/u/Ratnesh_Singh07/
+- Email: ratnesh90859@gmail.com
 
 ---
 
