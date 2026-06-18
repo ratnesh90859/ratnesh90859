@@ -58,18 +58,18 @@
 
 ### Contact Me
 
+### 🏆 Competitive Programming
+
 <p align="left">
-  <a href="mailto:ratnesh90859@gmail.com">
-    <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="50" width="50"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ratnesh-singh-426819216/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" height="60" width="60"/>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-3★%20Programmer-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 
   <a href="https://leetcode.com/u/Ratnesh_Singh07/" target="_blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" height="50" width="50"/>
+    <img src="https://img.shields.io/badge/LeetCode-1720+-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+
+  <img src="https://img.shields.io/badge/DSA-350%2B%20Problems-success?style=for-the-badge"/>
 </p>
 
 ---
