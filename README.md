@@ -37,8 +37,7 @@
 
 - 🤖 Swiggy Concierge – Multi-Agent AI System
 - 📊 EcomInsight AI – NL-to-SQL Assistant
-- ✍️ QuickPost – AI LinkedIn Post Generator
-- 🏏 Cricket Tournament Management System
+- ✍️ VideoGyan– Youtube Video Summary
 - 🍔 Foodie – Food Delivery Platform
 
 ---
