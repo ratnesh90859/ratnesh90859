@@ -61,13 +61,13 @@
 ### Coding Profiles
 
 <p align="left">
-<a href="https://leetcode.com/u/Ratnesh_Singh07/">
-<img src="https://skillicons.dev/icons?i=leetcode" />
-</a>
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" width="50" height="50"/>
+  </a>
 
-<a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="48" height="48"/>
-</a>
+  <a href="https://leetcode.com/u/Ratnesh_Singh07/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="50" height="50"/>
+  </a>
 </p>
 
 ---
