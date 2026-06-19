@@ -88,9 +88,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ratnesh90859&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 <p align="center">
    <b>❤️ Thank you for visiting my GitHub Profile ❤️</b>
