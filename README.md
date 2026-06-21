@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Backend, Cloud and AI related projects
 - 💬 Ask me about DSA, Backend Development, Cloud and GenAI
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy solving DSA problems as much as building real-world applications
+
 
 <br>
 
