@@ -53,6 +53,9 @@
 <a href="https://www.credly.com/badges/c0145869-1fc2-4fd1-a8a9-efe9b0fa0fd8">
   <img src="https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Google Cloud Associate Data Practitioner">
 </a>
+<a href="https://drive.google.com/file/d/1YtUB7vxglTwG8_7cfyRyyBCSrNyxiXPK/view">
+  <img src="https://images.credly.com/size/110x110/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png" alt="Google Cloud Associate Cloud Engineer">
+</a>
 
 ---
 
